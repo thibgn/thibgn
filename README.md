@@ -1,9 +1,11 @@
 ### Hello, I'm Thibaud 👋
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmfy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Streaktime](https://streak-stats.demolab.com/?user=thibgn)
+<br/>
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rmfy&layout=compact)
+
 <!--
 **thibgn/thibgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
